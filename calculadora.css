@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(107, 153, 65);
+    color:white;
+    text-align: center;
+    font-family: arial;
+}
+p {
+    font-size:25px;
+}
+.label-verde {
+    color: rgb(29, 94, 43);
+    font-size: 17px;
+    font-weight: bold;
+}
+#buttons button {
+    color:rgb(9, 65, 9);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-color: rgb(9, 65, 9);
+    border-style: solid;
+    font-weight: bold;
+}
+#buttons button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+#principal {
+    margin: 25vh;
+}
+.input-color {
+    color: rgb(29, 94,43);
+    font-size: 15px;
+    text-align: center;
+}
